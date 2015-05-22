@@ -1,0 +1,11 @@
+﻿<Window x:Class="WpfApplication3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Grades" HorizontalAlignment="Left" Margin="230,137,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Label Content="               CLICK THIS BUTTON TO KNOW YOUR GRADES:             " HorizontalAlignment="Left" Height="50" Margin="74,28,0,0" VerticalAlignment="Top" Width="362"/>
+
+
+    </Grid>
+</Window>
